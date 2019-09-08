@@ -1,0 +1,3 @@
+free-space-before-stop: 50
+directory-to-check: /home/
+command-when-space-low: stop

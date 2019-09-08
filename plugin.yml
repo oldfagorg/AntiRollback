@@ -1,0 +1,13 @@
+name: AntiRollback
+version: 1.0
+author: John200410
+
+main: black.nigger.arb.Main
+
+commands:
+  freespace:
+    description: tells u how much free space u got
+    usage: /freespace
+  freespace-reload:
+    description: reloads antirollback
+    usage: /freespace-reload
